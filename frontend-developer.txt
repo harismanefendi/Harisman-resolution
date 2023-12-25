@@ -2,4 +2,7 @@ Saya harus bisa
 - HTML
 - CSS
 - JAVASCRIPT
+  - reactjs
+  - angular
+- data structure
 - Reactjs
