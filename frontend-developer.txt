@@ -2,3 +2,4 @@ Saya harus bisa
 - HTML
 - CSS
 - JAVASCRIPT
+- Reactjs
