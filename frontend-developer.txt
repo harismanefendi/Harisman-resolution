@@ -3,6 +3,9 @@ Saya harus bisa
 - CSS
 - JAVASCRIPT
   - reactjs
-  - angular
+
+  - jquery
 - data structure
+
 - Reactjs
+- docker
