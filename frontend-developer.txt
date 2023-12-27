@@ -1,6 +1,7 @@
 Saya harus bisa 
 - HTML
 - CSS
+  - boostrap
 - JAVASCRIPT
   - reactjs
   - angular
