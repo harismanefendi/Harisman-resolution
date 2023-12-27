@@ -1,9 +1,16 @@
 Saya harus bisa 
 - HTML
 - CSS
-  - boostrap
+
+  
+
+  - tailwindcss
+
 - JAVASCRIPT
   - reactjs
-  - angular
+
+  - jquery
 - data structure
+
 - Reactjs
+- docker
