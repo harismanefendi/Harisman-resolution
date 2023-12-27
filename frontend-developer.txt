@@ -1,7 +1,11 @@
 Saya harus bisa 
 - HTML
 - CSS
+
+  
+
   - tailwindcss
+
 - JAVASCRIPT
   - reactjs
 
